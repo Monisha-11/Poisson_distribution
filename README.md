@@ -31,8 +31,10 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
 
 ```java
+
 DEVELOPED BY : MONISHA T
 REG. NO. : 212221240029
+
 import numpy as np
 import math
 import scipy.stats
@@ -78,7 +80,6 @@ else:
     print("The given data cannot be fitted in Poisson distribution at 1% LOS")
  ```
  
-
 # Output : 
 
 ![image](https://github.com/Monisha-11/Poisson_distribution/assets/93427240/ac6bba5f-3f09-4ad9-8c7d-3da3ac678d0e)
